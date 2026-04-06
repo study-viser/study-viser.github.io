@@ -14,11 +14,11 @@
 [Study-viser Organization](https://github.com/study-viser)
 
 ## Current Project Updates
-<img width="1862" height="943" alt="image" src="https://github.com/user-attachments/assets/20634931-341d-4d62-9bcb-5b2cbe5b3ee5" />
+<img width="506" height="256" alt="image" src="https://github.com/user-attachments/assets/20634931-341d-4d62-9bcb-5b2cbe5b3ee5" />
 
-<img width="1606" height="342" alt="image" src="https://github.com/user-attachments/assets/cdb22874-710c-4dd4-991a-04caba681689" />
+<img width="506" height="107" alt="image" src="https://github.com/user-attachments/assets/cdb22874-710c-4dd4-991a-04caba681689" />
 
-<img width="1887" height="512" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
+<img width="506" height="137" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
 
 ## Milestone 1
 [Milestone 1 Github Repo](https://github.com/orgs/study-viser/projects/1)
