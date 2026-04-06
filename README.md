@@ -1,5 +1,13 @@
 ## Project: StudyViser
 
+## Members
+* Asano, Noah
+* Gillan, Michaela
+* Kim, Seonwoo
+* Valera, Khloe
+* Wong, Marie 
+
+
 ## Overview
 
 **The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each course has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or concepts. Currently, students piece together study resources from various sources (textbooks, lecture notes, online forums) without quality assurance or institutional verification. Additionally, students don't know what to expect from a course before enrolling.
