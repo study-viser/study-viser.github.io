@@ -1,14 +1,14 @@
-## Project: KnowledgeVault
+## Project: StudyViser
 
 ## Overview
 
 **The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each course has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or concepts. Currently, students piece together study resources from various sources (textbooks, lecture notes, online forums) without quality assurance or institutional verification. Additionally, students don't know what to expect from a course before enrolling.
 
-**The solution:** KnowledgeVault is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, KnowledgeVault becomes a community-driven resource that benefits current and future students across disciplines.
+**The solution:** StudyViser is a collaborative platform where instructors define what study materials their course needs, and students earn extra credit by submitting, reviewing, and refining those materials. All approved submissions compile into comprehensive, interactive study resources organized by topic. By enabling cross-course sharing and open resource exports, StudyViser becomes a community-driven resource that benefits current and future students across disciplines.
 
 ## Approach
 
-KnowledgeVault has three main user roles: students, instructors, and teaching assistants (TAs). Any user can have multiple roles (for example, a graduate student can be both a TA and a student in a different course).
+StudyViser has three main user roles: students, instructors, and teaching assistants (TAs). Any user can have multiple roles (for example, a graduate student can be both a TA and a student in a different course).
 
 **Instructors** create course study material structures by defining what types of content their course needs (starting with glossary terms in Phase 1). They set extra credit point values for contributions, control whether students can access previous semester materials, and export compiled resources as open educational resources.
 
@@ -18,7 +18,7 @@ KnowledgeVault has three main user roles: students, instructors, and teaching as
 
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
-For the initial implementation, KnowledgeVault focuses on **terminology and definitions.**.
+For the initial implementation, StudyViser focuses on **terminology and definitions.**.
 
 **Instructor-Defined Glossaries:**
 - Instructor adds terms for each week or topic
