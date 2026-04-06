@@ -8,10 +8,10 @@
 * Wong, Marie 
 
 ## Team Contract
-https://docs.google.com/document/d/1WNb_lyYdNFqCcCuSS1j-lI2dNDbnwPH-kORr4O0ziu0/edit?tab=t.0
+[Contract Document](https://docs.google.com/document/d/1WNb_lyYdNFqCcCuSS1j-lI2dNDbnwPH-kORr4O0ziu0/edit?tab=t.0)
 
 ## Github Organization
-https://github.com/study-viser
+[Study-viser Organization](https://github.com/study-viser)
 
 ## Current Project Updates
 <img width="1862" height="943" alt="image" src="https://github.com/user-attachments/assets/20634931-341d-4d62-9bcb-5b2cbe5b3ee5" />
@@ -21,7 +21,7 @@ https://github.com/study-viser
 <img width="1887" height="512" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
 
 ## Milestone 1
-https://github.com/orgs/study-viser/projects/1
+[Milestone 1 Github Repo](https://github.com/orgs/study-viser/projects/1)
 
 ## Overview
 
