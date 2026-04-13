@@ -22,6 +22,7 @@
 
 ## Milestone 1
 [Milestone 1 Github Repo](https://github.com/orgs/study-viser/projects/1)
+[Milestone 1 Project Page](M1.md)
 
 ## Overview
 
