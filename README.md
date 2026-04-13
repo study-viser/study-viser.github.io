@@ -24,8 +24,10 @@
 
 
 ## Milestone 1
-[Milestone 1 Github Repo](https://github.com/orgs/study-viser/projects/1)
+[Milestone 1 Github Project](https://github.com/orgs/study-viser/projects/1)
 
+## Milestone 2
+[Milestone 2 Github Project](https://github.com/orgs/study-viser/projects/4/views/1)
 
 ## Overview
 
