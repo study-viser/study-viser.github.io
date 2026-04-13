@@ -20,7 +20,8 @@
 
 <img width="1887" height="512" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
 
-(img/home_page.png)
+![Mockup Home Page](img/home_page.png)
+
 
 
 ## Milestone 1
