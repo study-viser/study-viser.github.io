@@ -22,7 +22,15 @@
 
 ![Mockup Home Page](img/home_page.png)
 
+![Mockup Login Page](img/login.png)
 
+![Mockup Register Account Page](img/register_account.png)
+
+![Mockup Register Role Page](img/register_role.png)
+
+![Mockup Glossary View Page](img/glossary_view.png)
+
+![Mockup Course View Page](img/course_view.png)
 
 ## Milestone 1
 [Milestone 1 Github Project](https://github.com/orgs/study-viser/projects/1)
