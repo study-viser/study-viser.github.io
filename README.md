@@ -5,7 +5,10 @@
 * Gillan, Michaela
 * Kim, Seonwoo
 * Valera, Khloe
-* Wong, Marie 
+* Wong, Marie
+
+## Deployments
+* [https://study-viser.github.io/](https://study-viser.vercel.app/)
 
 ## Team Contract
 [Contract Document](https://docs.google.com/document/d/1WNb_lyYdNFqCcCuSS1j-lI2dNDbnwPH-kORr4O0ziu0/edit?tab=t.0)
