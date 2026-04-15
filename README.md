@@ -32,6 +32,12 @@
 
 ![Mockup Course View Page](img/course_view.png)
 
+![Home Page Site Map](img/home_map.png)
+
+![Student Page Site Map](img/student_map.png)
+
+![Instructor Page Site Map](img/instructor_map.png)
+
 ## Milestone 1
 [Milestone 1 Github Project](https://github.com/orgs/study-viser/projects/1)
 
