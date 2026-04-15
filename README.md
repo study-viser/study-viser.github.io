@@ -32,6 +32,10 @@
 
 ![Mockup Course View Page](img/course_view.png)
 
+![Instructor Dashboard](img/instructor_dashboard.png)
+
+![Student Dashboard](img/student_dashboard.png)
+
 ![Home Page Site Map](img/home_map.png)
 
 ![Student Page Site Map](img/student_map.png)
