@@ -17,23 +17,24 @@
 [Study-viser Organization](https://github.com/study-viser)
 
 ## Current Project Updates
-<img width="506" height="256" alt="image" src="https://github.com/user-attachments/assets/20634931-341d-4d62-9bcb-5b2cbe5b3ee5" />
 
-<img width="506" height="108" alt="image" src="https://github.com/user-attachments/assets/cdb22874-710c-4dd4-991a-04caba681689" />
+![M2 Course List Preview](img/m2/course_list_preview.png)
 
-<img width="506" height="137" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
+![M2 Instructor Dashboard](img/m2/instructor_dashboard.png)
 
-![M2 Instructor Dashboard](img/m2_instructor_dashboard.png)
+![M2 Student Dashboard](img/m2/student_dashboard.png)
 
-![Instructor Dashboard](img/instructor_dashboard.png)
+![M2 Student Join Course](img/m2/join_course.png)
 
-![Student Dashboard](img/student_dashboard.png)
+![M2 Student Course View](img/m2/course_view.png)
 
-![Home Page Site Map](img/home_map.png)
+![M2 Student Join Course](img/m2/join_course.png)
 
-![Student Page Site Map](img/student_map.png)
+![M2 Student Add Definition](img/m2/add_definition.png)
 
-![Instructor Page Site Map](img/instructor_map.png)
+![M2 Instructor Week View](img/m2/instructor_week_view.png)
+
+![M2 Instructor Submission Review](img/m2/instructor_submission_review.png)
 
 ## Milestone 1
 [Milestone 1 Github Project](https://github.com/orgs/study-viser/projects/1)
