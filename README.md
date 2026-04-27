@@ -42,6 +42,9 @@
 ## Milestone 2
 [Milestone 2 Github Project](https://github.com/orgs/study-viser/projects/4/views/1)
 
+## Milestone 3
+[Milestone 3 Github Project](https://github.com/orgs/study-viser/projects/9/views/7)
+
 ## Overview
 
 **The problem:** Students struggle to access structured, verified study materials tailored to their specific courses. Each course has different learning needs—some courses require mastering terminology, others need worked problem solutions, analyses, or concepts. Currently, students piece together study resources from various sources (textbooks, lecture notes, online forums) without quality assurance or institutional verification. Additionally, students don't know what to expect from a course before enrolling.
