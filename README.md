@@ -28,8 +28,6 @@
 
 ![M2 Student Course View](img/m2/course_view.png)
 
-![M2 Student Join Course](img/m2/join_course.png)
-
 ![M2 Student Add Definition](img/m2/add_definition.png)
 
 ![M2 Instructor Week View](img/m2/instructor_weekview.png)
