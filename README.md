@@ -32,7 +32,7 @@
 
 ![M2 Student Add Definition](img/m2/add_definition.png)
 
-![M2 Instructor Week View](img/m2/instructor_week_view.png)
+![M2 Instructor Week View](img/m2/instructor_weekview.png)
 
 ![M2 Instructor Submission Review](img/m2/instructor_submission_review.png)
 
