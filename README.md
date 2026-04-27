@@ -23,17 +23,7 @@
 
 <img width="506" height="137" alt="image" src="https://github.com/user-attachments/assets/31818a2f-f329-45c9-a6f1-cb2249210475" />
 
-![Mockup Home Page](img/home_page.png)
-
-![Mockup Login Page](img/login.png)
-
-![Mockup Register Account Page](img/register_account.png)
-
-![Mockup Register Role Page](img/register_role.png)
-
-![Mockup Glossary View Page](img/glossary_view.png)
-
-![Mockup Course View Page](img/course_view.png)
+![M2 Instructor Dashboard](img/m2_instructor_dashboard.png)
 
 ![Instructor Dashboard](img/instructor_dashboard.png)
 
