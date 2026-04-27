@@ -32,6 +32,8 @@
 
 ![M2 Instructor Week View](img/m2/instructor_weekview.png)
 
+![M2 Instructor Add Term](img/m2/add_term.png)
+
 ![M2 Instructor Submission Review](img/m2/instructor_submission_review.png)
 
 ## Milestone 1
