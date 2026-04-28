@@ -162,6 +162,10 @@ Submissions are evaluated based on:
 
 ---
 
+# Developer Guide
+[StudyViser Developer Guide](doc/developer-guide.md)
+
+---
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
 For the initial implementation, StudyViser focuses on **terminology and definitions.**.
