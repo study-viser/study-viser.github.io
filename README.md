@@ -107,7 +107,7 @@ For the initial implementation, StudyViser focuses on **terminology and definiti
 - Search and filter by week, difficulty, or content type
 - View multiple submitted definitions (approved and unapproved) to understand different approaches
 
-## Mockup Page Ideas
+<!-- ## Mockup Page Ideas
 
 Some possible mockup pages include:
 
@@ -124,4 +124,4 @@ Some possible mockup pages include:
 - Previous Semester Materials View
 - Student Profile (submission history, extra credit balance)
 - Resource Export Modal
-- Course Analytics Page
+- Course Analytics Page -->
