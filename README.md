@@ -208,6 +208,9 @@ For the initial implementation, StudyViser focuses on **terminology and definiti
 - Search and filter by week, difficulty, or content type
 - View multiple submitted definitions (approved and unapproved) to understand different approaches
 
+## Developer Guide
+[StudyViser Developer Guide](doc/developer-guide.md)
+
 <!-- ## Mockup Page Ideas
 
 Some possible mockup pages include:
