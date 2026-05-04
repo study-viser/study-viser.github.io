@@ -67,6 +67,9 @@ StudyViser has three main user roles: students, instructors, and teaching assist
 # Developer Guide
 [StudyViser Developer Guide](doc/developer-guide.md)
 
+# Community Feedback
+[StudyViser Community Feedback](doc/community-feedback.md)
+
 ---
 ## Phase 1: Glossary-Based Study Materials (MVP)
 
@@ -80,7 +83,7 @@ For the initial implementation, StudyViser focuses on **terminology and definiti
 **Student Submissions & Competition:**
 - Students can submit definitions for glossary terms
 - **Per-Student Limit:** Each student can submit 1-2 definitions per week maximum (at instructor's discretion)
-- **Per-Term Cap (based on class size):** Each term can receive multiple submissions for competition:
+- **Per-Term Cap:** Each term can receive multiple submissions for competition:
   - 1-20 students: 3 submissions per term max
   - 21-40 students: 4 submissions per term max
   - 41+ students: 5 submissions per term max
@@ -106,16 +109,10 @@ For the initial implementation, StudyViser focuses on **terminology and definiti
 - Other submissions remain visible as supplementary resources but don't earn credit, allowing students to learn from multiple approaches
 
 **Interactive Study Features:**
-- Highlight key phrases (color-coded for personal use)
-- Add private annotations to any term
 - Bookmark important terms
-- Create custom study sets
 - Use flashcard study mode
 - Search and filter by week, difficulty, or content type
 - View multiple submitted definitions (approved and unapproved) to understand different approaches
-
-## Developer Guide
-[StudyViser Developer Guide](doc/developer-guide.md)
 
 <!-- ## Mockup Page Ideas
 
