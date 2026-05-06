@@ -16,34 +16,14 @@
 ## Github Organization
 [Study-viser Organization](https://github.com/study-viser)
 
-## Current Project Updates
-
-![M2 Course List Preview](img/m2/course_list_preview.png)
-
-![M2 Instructor Dashboard](img/m2/instructor_dashboard.png)
-
-![M2 Student Dashboard](img/m2/student_dashboard.png)
-
-![M2 Student Join Course](img/m2/join_course.png)
-
-![M2 Student Course View](img/m2/course_view.png)
-
-![M2 Student Add Definition](img/m2/add_definition.png)
-
-![M2 Instructor Week View](img/m2/instructor_weekview.png)
-
-![M2 Instructor Add Term](img/m2/add_term.png)
-
-![M2 Instructor Submission Review](img/m2/instructor_submission_review.png)
-
 ## Milestone 1
-[Milestone 1 Github Project](https://github.com/orgs/study-viser/projects/1)
+[Link to Milestone 1 Page](doc/milestone-1.md)
 
 ## Milestone 2
-[Milestone 2 Github Project](https://github.com/orgs/study-viser/projects/4/views/1)
+[Link to Milestone 2 Page](doc/milestone-2.md)
 
 ## Milestone 3
-[Milestone 3 Github Project](https://github.com/orgs/study-viser/projects/9/views/7)
+[Link to Milestone 3 Page](doc/milestone-3.md)
 
 ## Overview
 
